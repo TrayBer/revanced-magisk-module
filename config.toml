@@ -7,6 +7,7 @@ parallel-jobs = 1
 # you can use rvmm-config-gen to generate a config
 
 [YouTube-Morphe]
+enabled = false
 app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
@@ -17,6 +18,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music-Morphe]
+enabled = false
 app-name = "Music"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
@@ -28,6 +30,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
 [Reddit-Morphe]
+enabled = false
 app-name = "Reddit"
 rv-brand = "Morphe"
 build-mode = "both"
@@ -39,6 +42,7 @@ uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
 dpi = "120-640dpi"
 
 [GooglePhotos]
+enabled = false
 build-mode = "both"
 patches-source = "RookieEnough/De-Vanced"
 rv-brand = "DeVanced"
@@ -47,9 +51,11 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 
 [Twitter]
+enabled = true
 patches-source = "crimera/piko-newx"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
+patches-version = "v3.10.1"   # 'latest', 'dev', or a version number. default: "latest"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 version = "12.22.0-prod.01"
 included-patches = "'NewX: Restore Twitter branding'"
