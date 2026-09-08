@@ -50,17 +50,6 @@ cli-source = "MorpheApp/morphe-cli"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.photos"
 
-[Twitter]
-enabled = true
-build-mode = "both"
-patches-source = "crimera/piko-newx"
-cli-source = "MorpheApp/morphe-cli"
-rv-brand = "Piko"
-patches-version = "v3.11.0"   # 'latest', 'dev', or a version number. default: "latest"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-version = "12.22.0-prod.01"
-included-patches = "'NewX: Restore Twitter branding'"
-
 [Music]
 enabled = false
 build-mode = "both"
@@ -76,16 +65,27 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
-[Instagram]
+[Twitter]
 enabled = false
+build-mode = "both"
+patches-source = "crimera/piko-newx"
+cli-source = "MorpheApp/morphe-cli"
+rv-brand = "Piko"
+patches-version = "v3.11.0"   # 'latest', 'dev', or a version number. default: "latest"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
+version = "12.22.0-prod.01"
+included-patches = "'NewX: Restore Twitter branding'"
+
+[Instagram]
+enabled = true
 build-mode = "both"
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
 version = "439.0.0.37.89"
-# apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-439-0-0-37-89-release/instagram-439-0-0-37-89-10-android-apk-download/"
-uptodown-dlurl = "https://instagram.en.uptodown.com/android"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
+archive-dlurl = "https://github.com/TrayBer/revanced-magisk-module/releases/download/0000/com.instagram.android-439.0.0.37.89.apk"
 
 [Twitch]
 enabled = false
