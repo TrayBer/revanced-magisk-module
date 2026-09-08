@@ -72,8 +72,9 @@ patches-source = "crimera/piko-newx"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
 patches-version = "v3.11.0"   # 'latest', 'dev', or a version number. default: "latest"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter/"
+archive-dlurl = "https://archive.org/download/maxwe11/apks/com.twitter.android"
 version = "12.22.0-prod.01"
 included-patches = "'NewX: Restore Twitter branding'"
 
@@ -85,7 +86,7 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
 version = "439.0.0.37.89"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
-archive-dlurl = "https://archive.org/download/maxwe11"
+archive-dlurl = "https://archive.org/download/maxwe11/apks/com.instagram.android"
 
 [Twitch]
 enabled = false
