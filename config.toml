@@ -85,7 +85,7 @@ cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Piko"
 version = "439.0.0.37.89"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram/"
-archive-dlurl = "https://github.com/TrayBer/revanced-magisk-module/releases/download/0000/com.instagram.android-439.0.0.37.89.apk"
+archive-dlurl = "https://archive.org/download/maxwe11"
 
 [Twitch]
 enabled = false
