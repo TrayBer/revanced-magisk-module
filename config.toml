@@ -79,6 +79,7 @@ version = "12.22.0-prod.01"
 included-patches = "'NewX: Restore Twitter branding'"
 
 [Instagram]
+# 流程无法正常进行，可能修补插件不能用于构建
 enabled = true
 build-mode = "both"
 patches-source = "crimera/piko"
