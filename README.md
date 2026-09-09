@@ -6,8 +6,8 @@
 
 # Resource Download
 * [X(Twitter)-APKMirror](https://www.apkmirror.com/apk/x-corp/twitter/)
-  - 12.23.1-prod.01(312231001)
-  - 12.22.0-prod.01(312220001)
+  - 12.23.1-prod.01 (312231001)
+  - 12.22.0-prod.01 (312220001)
 * [Instagram-APKMirror](https://www.apkmirror.com/apk/instagram/instagram-instagram/)
 
 # ReVanced Magisk Module
