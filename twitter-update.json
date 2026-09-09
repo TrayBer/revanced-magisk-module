@@ -1,6 +1,6 @@
 {
-  "version": "v12.23.1-prod.01 (patches 3.13.2.mpp)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/TrayBer/revanced-magisk-module/releases/download/9/twitter-piko-module-v12.23.1-prod.01-all.zip",
-  "changelog": "https://raw.githubusercontent.com/TrayBer/revanced-magisk-module/update/build.md"
+  "version": "v12.23.1-prod.01 (patches 3.13.3.mpp)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/TrayBer/revanced-piko-module/releases/download/10/twitter-piko-module-v12.23.1-prod.01-all.zip",
+  "changelog": "https://raw.githubusercontent.com/TrayBer/revanced-piko-module/update/build.md"
 }
