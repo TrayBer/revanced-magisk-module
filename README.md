@@ -9,6 +9,7 @@
   - 12.23.1-prod.01 (312231001)
   - 12.22.0-prod.01 (312220001)
 * [Instagram-APKMirror](https://www.apkmirror.com/apk/instagram/instagram-instagram/)
+* [jhc-apks-archive](https://archive.org/download/jhc-apks/apks/)
 
 # ReVanced Magisk Module
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
