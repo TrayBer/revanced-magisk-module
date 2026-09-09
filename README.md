@@ -4,6 +4,10 @@
 * [piko-newx](https://github.com/crimera/piko-newx)
 * [De-Vanced](https://github.com/RookieEnough/De-Vanced)
 
+# Resource Download
+* [X(Twitter)-APKMirror](https://www.apkmirror.com/apk/x-corp/twitter/)
+* [Instagram-APKMirror](https://www.apkmirror.com/apk/instagram/instagram-instagram/)
+
 # ReVanced Magisk Module
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rvc_magisk)
 [![CI](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/j-hc/revanced-magisk-module/actions/workflows/ci.yml)
