@@ -1,6 +1,6 @@
 {
-  "version": "v12.24.0-prod.02 (patches 3.17.0.mpp)",
-  "versionCode": 14,
-  "zipUrl": "https://github.com/TrayBer/revanced-piko-module/releases/download/14/twitter-piko-module-v12.24.0-prod.02-all.zip",
+  "version": "v12.24.0-prod.02 (patches 3.18.0.mpp)",
+  "versionCode": 15,
+  "zipUrl": "https://github.com/TrayBer/revanced-piko-module/releases/download/15/twitter-piko-module-v12.24.0-prod.02-all.zip",
   "changelog": "https://raw.githubusercontent.com/TrayBer/revanced-piko-module/update/build.md"
 }
